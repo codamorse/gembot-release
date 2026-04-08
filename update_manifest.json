@@ -1,6 +1,6 @@
 {
-  "latest_version": 6,
+  "latest_version": "5.3.0",
   "patches": {
-    "6": "https://github.com/CodaMorse/GemBot/releases/download/v6/Patch_v6.exe"
+    "5.3.0": "https://github.com/CodaMorse/GemBot/releases/download/v5.3.0/Patch_v5.3.0.exe"
   }
 }
