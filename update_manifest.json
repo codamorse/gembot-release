@@ -1,7 +1,7 @@
 {
   "latest_version": "5.2.14",
-  "patch_url": "https://github.com/codamorse/gembot-release/releases/download/v5.2.0/Patch_Gembot_v5.2.14.exe",
+  "patch_url": "https://github.com/codamorse/gembot-release/releases/download/v5.2.0/Patch_Gembot_v5.2.10.exe",
   "patches": {
-    "5.2.14": "https://github.com/codamorse/gembot-release/releases/download/v5.2.0/Patch_Gembot_v5.2.14.exe"
+    "5.2.14": "https://github.com/codamorse/gembot-release/releases/download/v5.2.0/Patch_Gembot_v5.2.10.exe"
   }
 }
